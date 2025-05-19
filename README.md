@@ -3,7 +3,7 @@
 🎓 Recently graduated with a **B.Sc. (Honours) in Computer Science and Mathematics** from Memorial University of Newfoundland  
 🛡️ Working as a **Security Operations Centre Administrator** at NL Health Services  
 🌐 Passionate about cloud computing, medical tech, distributed systems (HTCondor), and AI-driven applications  
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/yuvraj-kalsi/) | [Portfolio]([https://ykalsi.ca](https://yuvraj-kalsi0001.github.io/ykalsi-portfolio/))
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/yuvraj-kalsi/) | [Portfolio](https://yuvraj-kalsi0001.github.io/ykalsi-portfolio/)
 
 ---
 
